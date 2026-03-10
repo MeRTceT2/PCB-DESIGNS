@@ -29,5 +29,5 @@ This project is a through-hole (THT) version of the Arduino Uno board designed f
 ## Images
 
 - schematic.png
-- card.jpg
+- Card.jpg
 - 3d-view.jpg
