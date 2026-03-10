@@ -18,7 +18,7 @@ This directory contains small PCB projects created to practice fundamental PCB d
 ## Images
 
 ![Sematik](Breakout_board.jpg)
-![3D view](3D-view-arduino-tht.jpeg)
-![PCB](pcb-arduino-tht.jpeg)
+![3D view](buck_converter.jpg)
+![PCB](boost_converter.jpg)
 ![PCB](pcb-arduino-tht.jpeg)
 ![PCB](pcb-arduino-tht.jpeg)
