@@ -6,7 +6,7 @@ This project is a PCB design of the Arduino Nano development board.
 
 - ATmega328P microcontroller
 - Arduino Nano compatible pinout
-- SMD and THT components combination
+- SMD  components
 - USB to Serial interface
 - 5V voltage regulation
 
