@@ -17,7 +17,7 @@ This directory contains small PCB projects created to practice fundamental PCB d
 
 ## Images
 
-![Sematik](schematic-arduino-THT.jpeg)
+![Sematik](Breakout_board.jpg)
 ![3D view](3D-view-arduino-tht.jpeg)
 ![PCB](pcb-arduino-tht.jpeg)
 ![PCB](pcb-arduino-tht.jpeg)
