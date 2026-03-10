@@ -17,6 +17,8 @@ This directory contains small PCB projects created to practice fundamental PCB d
 
 ## Images
 
-- schematic.png
-- pcb-layout.png
-- 3d-view.png
+![Sematik](schematic-arduino-THT.jpeg)
+![3D view](3D-view-arduino-tht.jpeg)
+![PCB](pcb-arduino-tht.jpeg)
+![PCB](pcb-arduino-tht.jpeg)
+![PCB](pcb-arduino-tht.jpeg)
