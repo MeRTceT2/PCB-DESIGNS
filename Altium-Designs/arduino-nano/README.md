@@ -25,6 +25,6 @@ This project is a PCB design of the Arduino Nano development board.
 
 ## Images
 
-- schematic.png
-- pcb-layout.png
-- 3d-view.png
+![Sematik](sch.png)
+![3D view](3d.png)
+![PCB](3d-2.png)
