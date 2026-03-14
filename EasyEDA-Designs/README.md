@@ -1,10 +1,12 @@
+![PCB](a-a.jpeg)
+
 # ESP32-Based RFID Control System
 
 > Designed and developed during my internship as a hardware design task requested by the company.
 
 This project involves the design of an **ESP32-based RFID control system**. The system integrates RFID card reading, user notification, relay control, and status display via an LCD into a single embedded hardware architecture.
 
-The project was **designed and developed by me during my internship at Akelsan Teknik Güvenlik Sistemleri ve Yönetim Danışmanlığı Tic. Ltd. Şti.** based on a system requirement requested by the company.
+The project was **designed and developed by me during my internship at Akelsan Teknik Güvenlik Sistemleri ve Yönetim Danışmanlığı Tic. Ltd. Şti.**, based on a system requirement requested by the company.
 
 Within the scope of the project, power management, microcontroller interfacing, RFID communication, LCD integration, relay driver circuitry, and audio/visual notification structures were designed and implemented together.
 
@@ -54,7 +56,7 @@ The system architecture is suitable for applications such as:
 | GPIO22 | LCD SCL | I2C Clock |
 | GPIO25 | Relay Driver (2N2222) | Relay Control |
 | GPIO26 | Buzzer Driver | Audio Notification |
-| GPIO27 | LED / Notification | Visual Feedback |
+| GPIO27 | Status LED | Visual Notification |
 
 ---
 
@@ -92,10 +94,28 @@ The system architecture is suitable for applications such as:
                         |
                       Load
               
-               +--------+
-               | Buzzer |
-               +--------+
+         +--------+        +--------+
+         | Buzzer |        |  LED   |
+         +--------+        +--------+
+            GPIO26            GPIO27
 ```
+
+---
+
+# Notification System
+
+The system provides both **visual and audible feedback** to the user.
+
+- **Buzzer (GPIO26)** provides audio alerts.
+- **Status LED (GPIO27)** provides visual system feedback.
+
+These indicators can signal events such as:
+
+- Successful card reading
+- Access granted
+- Access denied
+- Insufficient balance
+- System status notifications
 
 ---
 
