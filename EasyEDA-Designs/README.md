@@ -131,6 +131,7 @@ Bu sistem aşağıdaki uygulamalarda kullanılabilir:
 ## RFID Okuyucu Kartı
 
 ![PCB](d-d.png)
+![PCB](a-a.png)
 
 ---
 
