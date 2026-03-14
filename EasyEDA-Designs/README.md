@@ -125,11 +125,12 @@ Bu sistem aşağıdaki uygulamalarda kullanılabilir:
 
 ## Ana Şematik
 
-![Sematik](.jpeg)
+![Sematik](SCH1.png)
+![Sematik](SCH2.png)
 
 ## RFID Okuyucu Kartı
 
-![PCB](.jpeg)
+![PCB](d-d.png)
 
 ---
 
