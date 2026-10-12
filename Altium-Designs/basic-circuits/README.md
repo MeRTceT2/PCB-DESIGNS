@@ -1,24 +1,28 @@
 # Basic PCB Circuit Designs
 
-This directory contains small PCB projects created to practice fundamental PCB design principles.
+Small PCB projects created to practice fundamental design principles in Altium Designer.
 
-## Focus Areas
+## Focus areas
 
-- Component placement strategies
-- Signal routing techniques
-- Power and ground plane layout
-- Understanding PCB design rules
-- Developing hands-on skills in Altium Designer
+- Component placement
+- Signal routing
+- Power and ground layout
+- PCB design rules
+- Practical board-design skills
 
-## Tools Used
+## Tools
 
 - Altium Designer
 - PCB Toolkit V8.40
 
-## Images
+## Project visuals
 
-![Sematik](Breakout_board.jpg)
-![3D view](buck_converter.jpg)
-![PCB](boost_converter.jpg)
-![PCB](derleme.jpg)
-![PCB](regulator.jpg)
+![Breakout board](Breakout_board.jpg)
+
+![Buck-converter design](buck_converter.jpg)
+
+![Boost-converter design](boost_converter.jpg)
+
+![Board assembly](derleme.jpg)
+
+![Regulator design](regulator.jpg)

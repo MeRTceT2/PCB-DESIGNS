@@ -1,33 +1,15 @@
-# Altium PCB Designs
+# Altium Designer Projects
 
-This directory contains all PCB projects created using Altium Designer.  
-The goal is to develop practical skills in schematic capture, PCB layout, and microcontroller board architecture.
+This folder groups PCB projects created with Altium Designer, from microcontroller boards to basic circuit designs.
 
 ## Projects
 
-### Arduino Uno THT Version
-A through-hole version of the Arduino Uno board designed for easier manual assembly and prototyping.  
+- **[Arduino Uno THT](arduino-uno-tht/README.md)** — a through-hole Arduino Uno board intended for manual assembly and prototyping.
+- **[Arduino Nano](arduino-nano/README.md)** — a compact Nano board layout focused on component placement and microcontroller-board architecture.
+- **[Basic circuits](basic-circuits/README.md)** — small designs for practicing routing, grounding and component placement.
 
-### Arduino Nano PCB Design
-A PCB layout of the Arduino Nano development board, focusing on compact component placement and microcontroller board architecture.  
+## Design focus
 
-### Basic Circuit Designs
-Small PCB projects created to practice fundamental PCB design principles including routing, grounding, and component placement.
+Schematic capture, PCB layout and routing, component placement, power and ground design, and 3D board visualization.
 
-## Focus Areas
-
-- Schematic design and capture
-- PCB layout and routing
-- Component placement strategies
-- Power and ground plane design
-- 3D PCB visualization
-
-## Structure
-
-Each project has its own folder containing:
-
-- README.md
-- schematic.png
-- pcb-layout.png
-- 3D renderings
-- Project files (Altium project files)
+Review each project folder for its README and available design visuals.

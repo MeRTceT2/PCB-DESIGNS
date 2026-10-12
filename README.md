@@ -1,28 +1,21 @@
-# PCB Designs
+# PCB Design Portfolio
 
-This directory contains a collection of printed circuit board (PCB) design projects developed for learning and experimentation in electronic hardware design.
+A collection of microcontroller boards, circuit prototypes and hardware modules designed with Altium Designer and EasyEDA. Use the project index below to go directly to each design.
 
-The projects include microcontroller boards, circuit prototypes, and small hardware modules designed using different electronic design automation (EDA) tools.
+## Project index
 
-The main goal of these designs is to improve practical skills in schematic capture, PCB layout, and hardware architecture.
+| Tool | Project | Project overview |
+|---|---|---|
+| Altium Designer | [Arduino Uno THT](Altium-Designs/arduino-uno-tht/README.md) | Through-hole Arduino Uno board for manual assembly and prototyping. |
+| Altium Designer | [Arduino Nano](Altium-Designs/arduino-nano/README.md) | Compact Arduino Nano board layout and component placement. |
+| Altium Designer | [Basic circuit designs](Altium-Designs/basic-circuits/README.md) | Small circuit projects covering breakout, buck, boost and regulator designs. |
+| EasyEDA | [ESP32 RFID control system](EasyEDA-Designs/README.md) | RFID reader, LCD, relay control and power-supply design. |
 
-## Design Tools
+## Design focus
 
-The projects in this directory are organized based on the design software used:
+Across these projects, the design work covers schematic capture, PCB layout and routing, component placement, power and ground design, and hardware prototyping.
 
-* **Altium Designer** – Professional PCB design environment used for complex board layouts and microcontroller boards.
-* **EasyEDA** – Web-based PCB design tool used for rapid prototyping and small circuit designs.
+## What you will find in each folder
 
-## Focus Areas
+Each project folder contains its README and the design visuals available for that project. Open the project link above for its components, design notes and images.
 
-These projects focus on developing practical experience in:
-
-* Schematic design
-* PCB layout and routing
-* Component placement strategies
-* Power and ground design
-* Hardware prototyping
-
-## Structure
-
-Each subdirectory represents a group of PCB projects created using a specific design tool.
