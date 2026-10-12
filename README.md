@@ -1,28 +1,23 @@
-# PCB Designs
+# PCB Design Portfolio
 
-This directory contains a collection of printed circuit board (PCB) design projects developed for learning and experimentation in electronic hardware design.
+A collection of PCB projects developed for learning and experimentation in electronic hardware design. The repository includes microcontroller boards, circuit prototypes and small hardware modules.
 
-The projects include microcontroller boards, circuit prototypes, and small hardware modules designed using different electronic design automation (EDA) tools.
+## Design tools
 
-The main goal of these designs is to improve practical skills in schematic capture, PCB layout, and hardware architecture.
+- **Altium Designer** — used for board layouts and microcontroller-board designs.
+- **EasyEDA** — used for rapid prototyping and smaller circuit designs.
 
-## Design Tools
+## Design areas
 
-The projects in this directory are organized based on the design software used:
+- Schematic capture
+- PCB layout and routing
+- Component placement
+- Power and ground design
+- Hardware prototyping
 
-* **Altium Designer** – Professional PCB design environment used for complex board layouts and microcontroller boards.
-* **EasyEDA** – Web-based PCB design tool used for rapid prototyping and small circuit designs.
+## Repository layout
 
-## Focus Areas
+- [`Altium-Designs/`](Altium-Designs/) — Altium-based board and circuit projects.
+- [`EasyEDA-Designs/`](EasyEDA-Designs/) — EasyEDA-based projects.
 
-These projects focus on developing practical experience in:
-
-* Schematic design
-* PCB layout and routing
-* Component placement strategies
-* Power and ground design
-* Hardware prototyping
-
-## Structure
-
-Each subdirectory represents a group of PCB projects created using a specific design tool.
+Each project folder groups its README and available design visuals.
