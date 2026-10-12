@@ -1,30 +1,31 @@
 # Arduino Nano PCB Design
 
-This project is a PCB design of the Arduino Nano development board.
+A PCB layout of the Arduino Nano development board, focused on compact component placement and board architecture.
 
 ## Features
 
 - ATmega328P microcontroller
-- Arduino Nano compatible pinout
-- SMD  components
-- USB to Serial interface
-- 5V voltage regulation
+- Arduino Nano-compatible pinout
+- SMD components
+- USB-to-serial interface
+- 5 V voltage regulation
 
-## Design Goals
+## Design goals
 
-- Understand the internal architecture of Arduino Nano
-- Practice PCB layout techniques for small boards
-- Learn component placement strategy for compact designs
-- Improve hands-on design skills using Altium Designer
+- Understand the Arduino Nano's internal architecture.
+- Practice compact PCB layout and component placement.
+- Develop hands-on PCB-design skills with Altium Designer.
 
-## Tools Used
+## Tools and references
 
 - Altium Designer
 - ATmega328P datasheet
 - Arduino Nano reference schematic
 
-## Images
+## Design visuals
 
-![Sematik](sch.jpg)
-![3D view](3d.jpg)
-![PCB](3d-2.jpg)
+![Schematic](sch.jpg)
+
+![3D board view](3d.jpg)
+
+![Additional board view](3d-2.jpg)
